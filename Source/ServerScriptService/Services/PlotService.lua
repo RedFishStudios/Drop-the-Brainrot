@@ -1,4 +1,7 @@
 local Players = game:GetService("Players")
+
+local StorageService = require(script.Parent.StorageService)
+
 local BasesFolder = workspace:WaitForChild("Bases")
 
 local claimedBases = {}
@@ -47,9 +50,7 @@ local function claimBase(player, base)
 		spawnLoc.TeamColor = player.TeamColor
 	end
 
-	-- if StorageManager then
-	-- 	StorageManager.BuildSlots(player, base)
-	-- end
+	StorageService:BuildSlots(player, base)
 
 	-- if CaveManager then
 	-- 	CaveManager.SetupDropButton(base, player)
