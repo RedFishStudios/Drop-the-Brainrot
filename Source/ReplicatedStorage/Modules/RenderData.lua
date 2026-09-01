@@ -1,0 +1,50 @@
+local RenderData = {
+	TungTungSahur = {
+		Normal = "rbxassetid://72078035059598",
+		Frosted = "rbxassetid://98490422600331",
+		Buried = "rbxassetid://78687631287406",
+		Molten = "rbxassetid://129821946454305",
+		Radioactive = "rbxassetid://87376249706733",
+		Candy = "rbxassetid://128373012819964",
+	},
+
+	LosTralaleritos = {
+		Normal = "rbxassetid://71297180066366",
+		Frosted = "rbxassetid://129659187456070",
+		Buried = "rbxassetid://137828167432125",
+		Molten = "rbxassetid://92145715449893",
+		Radioactive = "rbxassetid://128363948883530",
+		Candy = "rbxassetid://118842667480068",
+	},
+
+	VacaSaturnoSaturnita = {
+		Normal = "rbxassetid://94104882752435",
+		Frosted = "rbxassetid://100069866082194",
+		Buried = "rbxassetid://92775018956747",
+		Molten = "rbxassetid://78641657268701",
+		Radioactive = "rbxassetid://129869128371165",
+		Candy = "rbxassetid://139365384753913",
+	},
+
+	Bombardiro = { Normal = "rbxassetid://" },
+	TralaleroTralala = { Normal = "rbxassetid://" },
+	BrrrBrrrPatapim = { Normal = "rbxassetid://" },
+	ChaoChaoBambino = { Normal = "rbxassetid://" },
+	CappuccinoAssassino = { Normal = "rbxassetid://" },
+	LiriliLarila = { Normal = "rbxassetid://" },
+	PizzaPorco = { Normal = "rbxassetid://" },
+	FriFriFrulini = { Normal = "rbxassetid://" },
+	AnanasBambino = { Normal = "rbxassetid://" },
+	SpaghettiMonster = { Normal = "rbxassetid://" },
+	GiraffeOnaRainbow = { Normal = "rbxassetid://" },
+	TigreBombardia = { Normal = "rbxassetid://" },
+	VulcanoDelizioso = { Normal = "rbxassetid://" },
+	BallerinaCappuccino = { Normal = "rbxassetid://" },
+	CrocodilloVolante = { Normal = "rbxassetid://" },
+	MammaMiaMarco = { Normal = "rbxassetid://" },
+	UltimateBombarder = { Normal = "rbxassetid://" },
+	CosmicPizzaiolo = { Normal = "rbxassetid://" },
+	SecretBrainrot = { Normal = "rbxassetid://" },
+	GiganticBrainrot = { Normal = "rbxassetid://" },
+}
+return RenderData
