@@ -6,7 +6,7 @@ local Network = require(ReplicatedStorage.Modules.Network)
 local PlayerData = require(ServerScriptService.Services.PlayerData)
 
 local CurrencyService = {
-	Priority = 2,
+	Priority = 3,
 	Name = "CurrencyService",
 	Icon = "💰",
 }
