@@ -1,0 +1,23 @@
+{
+    "workbench.iconTheme": "roblox-vscode-icon-theme",
+    "workbench.colorTheme": "SynthWave '84",
+    "chat.viewSessions.orientation": "stacked",
+    "files.autoSave": "onWindowChange",
+    "chat.tools.terminal.autoApprove": {
+        "selene": true,
+        "aftman": true
+    },
+    "luau-lsp.sourcemap.rojoProjectFile": "default.project.json",
+    "stylua.targetReleaseVersion": "latest",
+    "editor.formatOnSave": true,
+    "editor.semanticHighlighting.enabled": true,
+    "luau-lsp.completion.imports.enabled": true,
+    "luau-lsp.completion.imports.suggestRequires": true,
+    "luau-lsp.completion.imports.stringRequires.enabled": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "on"
+    },
+    "editor.suggestOnTriggerCharacters": true
+}
